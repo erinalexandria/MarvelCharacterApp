@@ -1,0 +1,60 @@
+/*This file should have 10 CSS rulesets */
+/*1*/
+h1 {
+    color: #445D48;
+}
+
+/*2*/
+
+p {
+    color: #001524;
+    font-size: 1rem;
+}
+
+/*3*/
+label {
+    color: #5E3023
+}
+
+/*4*/
+input {
+    color: pink;
+}
+
+/*5*/
+main {
+    margin: 20px;
+    padding: 20px;
+    background-color: #d6cc99;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/*6*/
+a.return {
+    border: 2px solid #001524;
+    padding: 5px 10px;
+    background-color: #445D48;
+    font-weight: bold;
+    color: black;
+}
+
+/*7*/
+h2 {
+    color: darkslateblue;
+}
+
+/*8*/
+a:link {
+    color: darkgreen;
+}
+
+/*9*/
+img {
+    border: 2px solid white
+}
+
+/*10*/
+ul {
+    color: indigo
+}
