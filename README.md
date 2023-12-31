@@ -30,7 +30,7 @@ git clone [[https://github.com/erinalexandria/MarvelCharacterApp.git](https://gi
 
 2. Change to the repository directory:
 
-cd MarvelCharacterApp
+cd marvelcharacterapp
 
 3. Install the dependencies:
 Note: you need to have node.js installed to use npm.
