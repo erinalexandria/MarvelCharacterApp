@@ -1,6 +1,6 @@
 # Marvel Character Finder
 
-The Mavel Character Finder is a simple tempalted web application that allows the user to search through characters in the Marvel API.
+The Mavel Character Finder is a simple templated web application that allows the user to search through characters in the Marvel API.
 
 ## Dependencies
 
